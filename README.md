@@ -1,2 +1,2 @@
 # C++
-In this repository I put some algorithms that I create in c++ :)
+In this repository I put some algorithms and projects that I create in c++ :)
